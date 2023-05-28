@@ -1,0 +1,52 @@
+.paid {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height, or 125% */
+
+  letter-spacing: -0.25px;
+
+  color: #33d69f;
+}
+
+.forCircle {
+  width: 8px;
+  height: 8px;
+  background-color: #33d69f;
+  border-radius: 50%;
+}
+
+.forOrder {
+  display: flex;
+  width: 104px;
+  height: 40px;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  background-color: #cbfeed;
+  border-radius: 8px;
+}
+
+.elements {
+  width: 730px;
+  height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0px 10px 10px -10px rgba(72, 84, 159, 0.100397);
+  border-radius: 8px;
+  padding-left: 32px;
+  padding-right: 32px;
+
+}
+
+.mainHomeDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+    padding-top: 80px;
+    flex-direction: column;
+    gap: 16px;
+    
+}

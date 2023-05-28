@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.mainDiv {
+  height: 100%;
+  width: 103px;
+  background-color: #373b53;
+  border-radius: 0px 20px 20px 0px;
+}
+
+.left_img {
+  height: 745px;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
